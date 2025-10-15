@@ -215,4 +215,7 @@ dist
 
 # Temporary folders
 tmp/
-temp/.env
+temp/
+
+# Docs directory
+docs/
